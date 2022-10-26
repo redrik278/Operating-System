@@ -1,0 +1,2 @@
+gcc 2.c -o out2 -lpthread (storing output in a file)
+./out(showing output)
